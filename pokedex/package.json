@@ -1,0 +1,14 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "\"Pokedex app homework\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katy McAloney",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
